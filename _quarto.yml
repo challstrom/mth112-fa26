@@ -32,7 +32,7 @@ website:
 
 format:
   html:
-    #theme: sandstone
+    theme: cosmo
     css: style/mth112.scss
     toc: true
     number-sections: false

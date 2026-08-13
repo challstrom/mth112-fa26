@@ -7,6 +7,7 @@ format:
     toc: true
     toc-title: "On this page"
     title-block-banner: true
+    backgroundcolor: "#F7EAE0"
   pdf:
     toc: false
     number-sections: true
