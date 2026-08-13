@@ -36,3 +36,4 @@ In our classroom, diversity and individual differences are respected, appreciate
 :::
 
 {{< include info.qmd >}}
+{{< include policies.qmd >}}
