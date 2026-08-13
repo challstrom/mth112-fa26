@@ -1,18 +1,4 @@
----
-title: "Course Information"
-format:
-  html: 
-    number-sections: false
-    toc: true
-    toc-expand: 2
-    toc-title: "On this page"
-  pdf:
-    toc: true
-    number-sections: true
-    colorlinks: true
-    documentclass: report
-    classoptions: [notitlepage]
----
+
 
 # Class Information
 
