@@ -1,0 +1,54 @@
+project:
+  title: "MTH 112 :: Fall 2026"
+  type: default
+  output-dir: docs
+
+website: 
+  page-navigation: true
+
+  navbar:
+    background: "#112E81"
+    search: true
+
+  sidebar:
+    search: false
+    background: "#AACCD6"
+    pinned: true
+    align: center
+
+    style: docked
+    collapse-level: 2
+
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - href: info.qmd
+        text: Course Information
+      - href: targets.qmd
+        text: Learning Targets
+      - href: structure.qmd
+        text: Class Details
+
+
+format:
+  html:
+    #theme: sandstone
+    css: style/mth112.scss
+    toc: true
+    number-sections: false
+    highlight-style: monokai
+    link-external-icon: true
+    link-external-newwindow: true
+
+  pdf:
+    documentclass: article
+    classoption: [notitlepage]
+    margin-left: 30mm
+    margin-right: 30mm
+    toc: true
+    number-sections: true
+    colorlinks: true
+    pdf-engine: pdflatex
+    include-in-header:  
+        - text: |
+            \usepackage{enumitem}

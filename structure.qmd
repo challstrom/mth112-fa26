@@ -1,0 +1,143 @@
+---
+title: "Class Details"
+format:
+  html: 
+    number-sections: false
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+
+# Standards
+
+**Highly Proficient (P+)** Work meets or exceeds expectations. Characterized by complete and successful work on all portions of the questions, with thorough and correct reasoning. Mastery of the concepts is evident with at most a few minor or trivial errors.
+
+**Proficient (P)** Work meets expectations. Understanding is evident, even if some mistakes are present.
+
+**Not Yet Proficient (N)** Work does not yet meet expectations. Partial understanding is evident, but substantive gaps remain and work needs revision.
+
+**Incomplete (I)** Work is incomplete, missing, or otherwise does not address the learning target in a meaningful way.
+
+### Oral Exams
+
+At any time, you may ask to complete an oral exam to explain or clarify your written work on labs or proficiency assignments.
+
+## Grades
+
+## Course Level Learning Objectives
+
+By the end of the semester you will be able to...
+
+-   Analyze functions defined graphically, numerically, or by formula, including exponential, logarithmic, trigonometric, polynomial, and rational families of functions.
+
+-   Perform algebraic computations efficiently and correctly; particularly on exponential, logarithmic, and fractional expressions.
+
+-   Construct graphs of trigonometric functions using the properties of the unit circle.
+
+-   Use trigonometric, rational, exponential, and logarithmic equations to model situations and solve problems.
+
+-   Develop persistence in the face of challenging problems and reflective practices to improve your learning.
+
+-   Communication mathematics effectively using appropriate justifications and representations.
+
+## Class Format
+
+We will use a *flipped* format. Before each class you will complete a short assignment to prepare for our in-class activites. Class time will be spent working on problems, discussing ideas and questions, and presenting mathematical arguments. After class, you will have homework problems to practice skills and extend your understanding.
+
+New material will be covered on Monday, Wednesday, and Friday. Our Tuesday meeting will be primarly used for assessment and review.
+
+## Methods of Assessment
+
+This course is guided by the philosophy that learning mathematics requires focused effort, reflection, and revision. Assessment of this course is based on a proficiency system, in which students have multiple attempts to demonstrate proficiency, with opportunities to reflect on and improve previous understanding.
+
+### Participation
+
+You are expected to actively participate in this classroom community. Participation includes coming to class on time, being prepared, being willing to ask questions and share ideas, setting up study groups outside of class, attending tutoring sessions, posting helpful resources online, and contributing to the classroom virtual chat. Exit cards will be assigned regularly at the conclusion of class as part of participation assessment. Group and individual presentations of ideas is a required component of participation.
+
+We will cover new course material on Monday, Wednesday, and Friday. Most Tuesday class times will be for small group work on labs and for proficiency assessment.
+
+### Practice
+
+Regular practice in the form of homework is required to convert new skills into lasting, automatic procedures. For most sections, you will be required to complete an online homework via WebWork. The online homework will be due at 5:00 pm. Homework is due Monday, Wednesday, or Friday the class period after it is covered in class. Homework is graded automatically.
+
+It is strongly suggested that you do your homework regularly; it's best done following class, when it is fresh in your mind. Most questions allow unlimited attempts and there is no penalty for incorrect answers. If you find yourself stuck on a problem after many attempts, please reach out for additional help!
+
+### Preparation
+
+Before each class, you will complete a 5-question, multiple-choice video quiz embedded in Moodle. You have two attempts and your highest attempt is recorded. To prepare for the video quiz, a 20 minute video Intro video is assigned for each section. An optional video with additional examples is posted for some sections as well. In addition to completing the video quizzes, you need to come to class with your course pack ready to work.
+
+### Proficiency Check-ins
+
+Weekly proficiency quizzes provide opportunies to demonstrate your understanding of the course learning targets. Each quiz will include 1-2 learning targets as well as the option to re-assess past targets. Each quiz can be reassessed within two weeks following the original assessment (with some exceptions).
+
+### Labs
+
+Semi-weekly labs will be due on Fridays at 7pm. Lab problems should be either typed or written and submitted as a pdf file in Moodle. These labs are part of the Core Assessment, and will have common grading across all MTH 112 sections. Labs will be graded on three components:
+
+-   • Validity: Is the method correct? Is the final solution correct?
+-   • Explanation: Is the solution method well explained? Is the reasonableness of the solution justified?
+-   • Representation: Is the solution process clearly written? Is the solution supported with appropriate graphs/diagrams/equations? Is mathematical notation used clearly and correctly?
+
+Labs are graded on a proficiency scale and revisions are due approximately one week after feedback is given.
+
+### Reflections
+
+Periodically throughout the semester I will ask you to think about your process and assess your progress in the course. Reflections are a place to consider how things are going (and communicate that to me). Self-assessments are an opportunity for you to connect the skills and proficiencies that you're practicing with the course-level objectives, as well as make the case that your progress in the course warrants a particular grade.
+
+### Final Assessment
+
+The final exam includes two components: a cumulative written assessment that focuses on computations, graphical interpretation, and the connections between big ideas in the course. The second half of the final exam time will allow for reassessment of past learning objectives.
+
+## Revisions
+
+Much of your work in this class can be revised. Everyone's path to understanding is different but we all benefit from reflecting on our mistakes. Since much of the mathematical content will build on previous ideas, however, reflecting in a timely way is important.
+
+In addition to the regular in-class quizzes, you may re-assess any of the Learning Targets that we’ve covered through any either of the following methods:
+
+-   On quiz days there is additional time to retake additional Learning Target quizzes.
+-   You may schedule a retake on a particular Learning Target to be done during Help Hours in my office. This retake can be arranged to be done via conversation rather than written form.
+-   The final exam will be used for additional Learning Target retakes. University policy requires that students take the final exam at the time determined by the registrar.
+
+There are some restrictions on re-assessing using these methods: - Reassessments must be completed during the two weeks following the initial assessment. - Reassessments can only take place once per week. - A reassessment application must be submitted by Friday at 5pm the week before the reassessment. - Reassessment applications must include the name of the learning target and a copy of written corrections from the previous quiz, including a statement of the original problem. - No re-assessments will be given during finals week other than during the final exam time.
+
+## Due Dates
+
+## Getting Help
+
+Don't hesitate to ask for assistance! I have help hours specifically in place because I want you to succeed, and the best place to connect with questions is one-on-one. If you can’t make it to my posted help hours, let me know and we can find another time. Other help options include:
+
+-   Post your question to the class Moodle discussion board
+-   Get together with classmates to study together
+-   Drop by the Math Resource Center, which offers both drop-in and appointment-based tutoring.
+-   Google it. If you find a resource helpful, let me know and you get a token!
+
+I understand that life happens, and illness, depression, family, relationships can disrupt our lives. When something arises, REACH OUT! I want to be able to support you in this course, and can only do so if you let me know.
+
+## Rationale
+
+While it may seem complicated, there are numerous reasons for adopting this type of grading scheme described above, all of which I firmly believe benefit you.
+
+1.It is empowering and confidence-inspiring to know exactly what you have mastered-- and it’s a more honest measure of what you've actually learned! No more random points grab.
+
+2.  It is built on the premise that deep understanding takes time and practice. Getting multiple chances to learn something favors the kind of persistence and intellectual resilience that is needed to succeed in learning (and everything else), and I want to prioritize that.
+
+3.  It gives you more agency and control over your ultimate grade. You get to decide whether to revise or challenge a quiz to boost your P/P+ numbers, which topics to revisit, or whether to spend a token on an extension instead.
+
+4.  It replaces a few, high-stakes assessments (exams) with more numerous, low-stakes assessments, which decreases stress and pressure by spreading measurement out over the semester. It also makes your grade less susceptible to outlier events, such as when you feel sick on exam day.
+
+If you'd like to read more about "SBG" check out Robert Talbert's blog, which articulates all this very nicely.
+
+# Reminders and Expectations
+
+-   Canvas Consider Canvas your “base camp” for this course. All information, assignments, updates, Zoom links, etc. will be posted there. If you have a question, it's probably answered on Canvas (perhaps in this very syllabus...). I expect you to check the site frequently to stay on top of deadlines and course communications.
+
+-   I believe in you. Doubting yourself? It's human. Need an affirmation? Let me know... I've got your back!
+
+As someone who works hard to facilitate an environment that is safe and productive and that fosters inclusivity and deep belonging for each and every person in the room, I ask that you be courteous and respectful. I hope we can all learn to recognize individual differences as a source of strength and believe that each one of you is vital to the successful creation of a rich and diverse classroom space -- regardless of background, identity, or beliefs. Moreover, I contend that all perspectives are valuable (even those that are unpopular or that cause discomfort) because they are precisely what help broaden our understanding of the world and the people in it. As such, it is important that we approach one another with curiosity and kindness while trying to avoid judgement and bias. Please listen to others carefully, and thoughtfully consider ideas that are different from your own. Whatever your goals in life, you will be a better maker, builder, salesperson, colleague, leader, friend, and citizen if you are able to understand and accommodate a diverse range of perspectives! Also consider that mathematics is a robust and potentially persuasive analytic tool that can be used to challenge inherently inequitable systems of power and privilege. I treat it as such and want you to feel similarly empowered.
+
+I expect our classroom to be a true community of learners, and anyone who acts in a negative, threatening, or disruptive way through their words or actions harms that community and inhibits the participation of others. Rude, mocking, obscene, hateful, racist, sexist, and all other forms of disrespectful speech have a negative impact on everyone's learning and will not be tolerated. If a person disrupts our class in any of these ways, I will address it and reserve the right to remove the disruptive person from the class. Moreover, if you witness a peer behaving in an objectionable way, I invite you to try to help them examine their actions with empathy and care. We will all make mistakes in the messy and complicated process of working together and must help one another be accountable for reflecting on how our impact may differ from our intent. When I make such a mistake, I hope you will hold me to the same high ideals and courageously help me examine my own impact. There will be a feedback form on our Moodle page in case you ever wish to report something to me (anonymously, if you prefer) that you find objectionable along any of the lines described above (e.g., behavior you experience as unwelcoming in any regard).

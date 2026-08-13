@@ -1,0 +1,73 @@
+---
+title: "Course Information"
+format:
+  html: 
+    number-sections: false
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+    documentclass: report
+    classoptions: [notitlepage]
+---
+
+# Class Information
+
+## Meeting Times and Locations
+
+If you're reading this, you are probably a student enrolled in Section C of MTH 112, Fall 2026.  While the other two sections of MTH 112 are covering the same material with a similar course structure, some details will differ. Our section meets at the following times and places:
+
+- MWF 1:35-2:30, DB 230
+- T 11:20-12:15, DB 230
+
+## Instructor
+
+::: columns
+::: {.column width="65%"}
+Chris Hallstrom, PhD <br> (he/him)
+
+Students sometimes ask how they should address me. While I won't be offended if you use my first name, I know that many students aren't comfortable doing so. I also recognize that I have some amount of privilege in this regard and that many of my colleagues would find it disrespecful or presumptuous to use first names. In solidarity with them I'd suggest that you call me "Dr. Hallstrom" or "Prof. Hallstrom".
+
+-   ["My First Name"](https://docs.google.com/document/d/1bGDW6BChhG-DvPlli__AoJJQUf0TfFrL9tFEJNgTvvs/edit?usp=sharing) by Susan Harlan, *The South Carolina Review*, 2017 (49.2)
+
+-   ["Tenure, She Wrote"](https://tenureshewrote.wordpress.com/2014/03/11/feel-ree-to-call-me-dr/)
+
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![](images/cch_raingear.png)
+
+:::
+:::
+
+#### Contact Information
+
+Dr. Hallstrom (he/him)\
+Buckley Center 270\
+[hallstro\@up.edu](mailto:hallstro@up.edu)
+
+
+## Drop-In Hours
+
+I am tentatively scheduling drop-in help hours during the following times:
+
+- MW 9:30-10:30
+- TR 1-2:30
+
+You are welcome to stop by during these times to ask questions or get help on any aspect of the class.  You also don't need to have a specific question -- if you're just feeling lost or uneasy about the class, please stop by!
+
+
+
+
+
+## Text & Technology
+
+We will be using the free, open-source textbook *Active Prelude to Calculus* by M. Boelkins.  You can access the text in a few different ways...
+

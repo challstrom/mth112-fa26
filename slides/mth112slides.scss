@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sas-serif: "Omnes";
+$body-color: #102c57;
+$body-bg: #FEFAf6;
+
+/*-- scss:rules --*/
+
+/*-- scss:rules --*/
+.reveal .title {
+  font-family: Space Mono;
+  text-align: left;
+  font-size: 70pt;
+}
+
+.reveal h2 {
+  font-family: Space Mono;
+}
+
+.reveal .blue {
+  color: #007DCC;
+}
+
+.reveal .small {
+  font-size: 0.8em;
+}

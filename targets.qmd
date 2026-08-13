@@ -1,0 +1,118 @@
+---
+title: "Learning Targets"
+format:
+  html: 
+    number-sections: false
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+  pdf:
+    toc: false
+    number-sections: false
+    colorlinks: true
+---
+
+Upon successful completion of this course, you will be able to say the following:
+
+### Algebra
+
+A1 Solving equations and inequalities
+
+: I can use algebraic operations to solve equations and evaluate inequalities.
+
+A2 Factoring, multiplying, and rational expressions
+:   I can rewrite rational and polynomial expressions through factoring, polynomial multiplication, and simplifying fractional expressions.
+
+### Functions
+
+F1 Inputs and outputs
+
+:   I can use function notation, find and simplify the output of a function given an input, and find an input that produces a given output; I can do this for functions given by a formula, a table, and a graph. (1.1 & 1.2)
+
+F2 Rate of change
+
+:   I can find the average rate of change in a function on a given interval and interpret the meaning. (1.3)
+
+F3 Linear and quadratic functions
+
+:   I can model linear and quadratic relationships with equations and find key features graphically and algebraically. (1.4 & 1.5)
+
+F4 Compositions
+
+:   I can find the composition of functions given graphs, tables, and contexts, and interpret the meaning (1.6)
+
+F5 Inverses
+
+:   I can determine whether a function has an inverse and find the formula of the inverse of basic functions that have an inverse. (1.7)
+
+F6 Translations and piecewise functions
+
+:   I can translate graphs functions and construct piecewise functions. (1.8 & 1.9)
+
+F7 Function review
+
+:   I can interpret, represent, and evaluate problems using all previous function learning objectives.
+
+### Trigonoetry
+
+T1 Unit circle and arc length
+
+:   I can generate graphs of a circular functions given appropriate information about the circle being traversed, and describe key features of the function. (2.1, 2.2, & 2.3)
+
+T2 Sinusoidal functions
+
+:   I can find the amplitude, period, and midline of a transformed version of the basic sine or cosine function; and I can find the formulas for transformed versions of the basic sine or cosine function that have certain described properties. (2.4)
+
+T3 Right Triangles
+
+:   Given a right triangle with partial information about its sides and angles, I can determine the missing information for the remaining sides and angles, even if the quantities involve an unknown variable. (4.1)
+
+T4 Finding Angles
+
+:   I can interpret inverse trigonometric functions and use them to find angles. (4.3 & 4.4)
+
+T5. Other Trig Functions
+
+:   I can define tangent and reciprocal trigonometric functions and their graphs. (4.2 & 4.5)
+
+T6 Trig Review
+
+:   I can interpret, represent, and evaluate problems using all previous exponential and log learning objectives.
+
+### Exponentials and Logarithms
+
+E1 Exponent Properties
+
+:   I can simplify exponential expressions and solve equations using properties of exponents. (3.0)
+
+E2 Exponential Functions
+
+:   I can construct graphs and equations of exponential and logarithmic functions given contextual data or two point values. (3.2 & 3.2)
+
+E3 Equations with Exponents and Logs
+
+:   I can simplify logarithmic expressions using properties of logarithms and find exact solutions to equations involving exponential and logarithmic expressions. (3.4, 3.5, 3.6)
+
+E4 Exponential Review
+
+:   I can interpret, represent, and evaluate problems using all previous exponential and log learning objectives.
+
+### Rational Functions and Polynomials
+
+R1 Polynomials and Power Functions
+
+:   I can identify the degree, zeros, turning points, and long-range behavior of a polynomial given its formula or graph, and I can find the formula of a polynomial that fits given data about its behavior. (5.1, 5.2, & 5.3)
+
+R2 Rational Functions
+
+:   I can identify important features of rational functions, such as the asymptotes, end behavior, intercepts and holes. I can find the formula of a rational function that fits given data about its behavior. (5.4 & 5.5)
+
+### Participation and Engagment Goals
+
+-   Coming to class prepared by watching preview videos, taking the video quizzes on time, and being ready to learn while in class. Above 90% is highly proficient, above 75% is proficient.
+
+-   Coming to class on time, working problems, and sharing ideas in class. Participating in out of class enrichment. Above 90% is highly proficient, above 75% is proficient.
+
+-   Completing WebWork assignments on time. Above 90% is highly proficient, above 75% is proficient.
+
+-   Exceptional persistence in the face of challenges.
