@@ -33,6 +33,8 @@ website:
         text: Class Structure
       - href: grades.qmd
         text: Grades
+      - href: syllabus.qmd
+        text: Syllabus
       - section: "Slides"
         contents:
           - href: slides/01/01-introductions.qmd
