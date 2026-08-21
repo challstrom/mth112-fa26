@@ -51,7 +51,7 @@ Chris Hallstrom, PhD <br>( he / him)
 :::
 
 ::: {.column width="40%"}
-![](../images/cch.png){width=75% fig-alt="Headshot of Chris Hallstrom" fig-align="left"}
+![](../images/cch.jpg){width=75% fig-alt="Headshot of Chris Hallstrom" fig-align="left"}
 
 ::: {.small}
 from Salem, Oregon
