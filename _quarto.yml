@@ -23,18 +23,16 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
-      - href: support.qmd
-        text: Student Support
       - href: info.qmd
         text: Course Information
+      - href: support.qmd
+        text: Student Support
       - href: content.qmd
         text: Course Content
       - href: structure.qmd
         text: Class Structure
       - href: grades.qmd
         text: Grades
-      - href: syllabus.qmd
-        text: Syllabus
       - section: "Slides"
         contents:
           - href: slides/01/01-introductions.qmd
