@@ -1,6 +1,7 @@
 ---
 title: "Syllabus"
 subtitle: "MTH112, Section C <br>University of Portland, Fall 2026"
+
 format:
   html: 
     number-sections: true
