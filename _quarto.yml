@@ -1,18 +1,19 @@
 project:
-  title: "MTH 112 :: Fall 2026"
-  type: default
+  type: website
   output-dir: docs
+  title: "Precalculus<br>MTH112, Section C <br>University of Portland, Fall 2026"
+
 
 website: 
   page-navigation: true
 
   navbar:
-    background: "#112E81"
+    background: "#DF301C"
     search: true
 
   sidebar:
-    search: false
-    background: "#AACCD6"
+    search: true
+    background: "#FFF1D1"
     pinned: true
     align: center
 
@@ -22,12 +23,27 @@ website:
     contents:
       - href: index.qmd
         text: Welcome
+      - href: support.qmd
+        text: Student Support
       - href: info.qmd
         text: Course Information
-      - href: targets.qmd
-        text: Learning Targets
+      - href: content.qmd
+        text: Course Content
       - href: structure.qmd
-        text: Class Details
+        text: Class Structure
+      - href: grades.qmd
+        text: Grades
+      - section: "Slides"
+        contents:
+          - href: slides/01/01-introductions.qmd
+            text: "Introductions"
+            target: _blank
+          - href: slides/01/01-schedule.qmd
+            text: "Schedule"
+            target: _blank
+          - href: slides/rights.qmd
+            text: "Rights of Learners"
+            target: _blank  
 
 
 format:

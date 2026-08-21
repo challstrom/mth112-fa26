@@ -39,8 +39,6 @@ Students sometimes ask how they should address me. While I won't be offended if 
 - Office Phone: (503) 943-7165
 - Email: [hallstro\@up.edu](mailto: hallstro@up.edu)
 
-[hallstro\@up.edu](mailto:hallstro@up.edu){.btn .btn-primary}
-
 
 Email is a good way to communicate with me. If you send me email after 5pm, however, there's a good chance that I will not see it until the following morning. Similarly, I don't check my email regularly on weekends so you might not get a reply until Monday. I will do my best to respond as soon as I am able, but if you haven't heard back from me in a timely manner - please feel free to follow-up!
 
@@ -91,6 +89,8 @@ From time to time, we may also make use of online tools such as Wolfram Alpha fo
 Finally, if you need any assistance getting access to technology, please let me know!
 
 
+
+
 ## Important dates {#sec-important-dates}
 
 -   **Mon, Aug. 24:** Classes begin
@@ -105,4 +105,36 @@ Finally, if you need any assistance getting access to technology, please let me 
 -   **Mon, Dec 7**: Final check-in, 1:30-3:30
 
 
+## "AI"
+
+::: {.callout-note appearance="simple" icon="false"}
+Using LLM tools such as ChatGPT on **homework** or other **submitted work** fundamentally undermines our learning goals and will be considered a violation of UP's academic integrity policy. If I see work that I suspect may have been produced by or with the help of AI tools we will have a conversation about it. Note that I am obligated to share any concerns around academic integrity with the Dean of Students.
+
+In addition to work you turn in I strongly suggest, for the reasons articulated below, that you **don't use** AI tools **in any other capacity** for this class.
+
+These AI policies apply only to this course. For your other courses, please follow those professors' AI policies, which may differ from mine.
+:::
+
+
+::: columns
+::: {.column width="45%"}
+Generative AI tools such as ChatGPT work by predicting what words will form coherent sentences in the context of the prompt you've given it, essentially ["autocomplete in overdrive"](https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html). This means that Gen AI tools are **designed** to produce output that **sounds convincing** without any regard to whether its output is **actually correct**.  The technical term for this is [bullshit](https://thebullshitmachines.com/lesson-2-the-nature-of-bullshit/index.html) 
+
+This also means that they **are not actually doing any mathematics.** If ChatGPT can do a calculus problem its because it was trained on an immense catalogue of calculus materials (without the author's permission). It also means that there's absolutely no promise that any answers you get from generative AI are correct.
+
+I sometimes hear students say that they use AI as a "study aid" to do things like help explain concepts, to summarize content, or to check their work.
+
+But here's the thing -- those are all activities that are fundamental to the process of learning!  Struggling to build your own understanding - to make sense of difficult concepts - is the whole point. If you use Gen AI to do these tasks, you are giving up opportunities to learn. Don't undermine your growth as a human learner by looking for shortcuts!
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="50%"}
+![](./images/sousanis.jpg)
+:::
+:::
+
+Fundamentally, I believe that the use of AI tools in this class ultimately gets in the way of authentic learning.
 

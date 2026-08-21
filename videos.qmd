@@ -1,0 +1,12 @@
+---
+title: "videos"
+format: html
+---
+
+### F1 Function Inputs and Outputs
+
+I can use function notation, find and simplify the output of a function given an input, and find an input that produces a given output; I can do this for functions given by a formula, a table, and a graph. (1.1 & 1.2)
+
+  - [Dr. James](https://uportland.mediaspace.kaltura.com/media/1.2+Functions.mp4/1_p5w2h73t)
+
+  

@@ -1,5 +1,5 @@
 ---
-title: "Learning Targets"
+title: "Course Content"
 format:
   html: 
     number-sections: false
@@ -12,15 +12,27 @@ format:
     colorlinks: true
 ---
 
-Upon successful completion of this course, you will be able to say the following:
+In this course we will cover the foundational mathematical ideas necessary for the study of calculus. We will also work on developing a productive mathematical disposition, including persistence in problem-solving, evaluating the reasoning of others, and formulating mathematical justifications. Targeted toward students continuing to MTH 201, this course does not fulfill the core requirement.
+
+By the end of the semester you will be able to...
+
+-   Analyze functions defined graphically, numerically, or by formula, including exponential, logarithmic, trigonometric, polynomial, and rational families of functions.
+-   Perform algebraic computations efficiently and correctly; particularly on exponential, logarithmic, and fractional expressions.
+-   Construct graphs of trigonometric functions using the properties of the unit circle.
+-   Use trigonometric, rational, exponential, and logarithmic equations to model situations and solve problems.
+
+## Learning Targets
+
+The bulk of the course content is represented by the following specific topics which we call Learning Targets. Your goal over the course of the semester is to develop your understanding of these topics and to demonstrate that understanding via various assessment tasks – primarily our weekly check-ins. These topics are generally aligned with the indicated sections of our book.
 
 ### Algebra
 
 A1 Solving equations and inequalities
 
-: I can use algebraic operations to solve equations and evaluate inequalities.
+:   I can use algebraic operations to solve equations and evaluate inequalities.
 
 A2 Factoring, multiplying, and rational expressions
+
 :   I can rewrite rational and polynomial expressions through factoring, polynomial multiplication, and simplifying fractional expressions.
 
 ### Functions
@@ -107,12 +119,10 @@ R2 Rational Functions
 
 :   I can identify important features of rational functions, such as the asymptotes, end behavior, intercepts and holes. I can find the formula of a rational function that fits given data about its behavior. (5.4 & 5.5)
 
-### Participation and Engagment Goals
+## Mathematical Practice
 
--   Coming to class prepared by watching preview videos, taking the video quizzes on time, and being ready to learn while in class. Above 90% is highly proficient, above 75% is proficient.
+While not directly tied to specific topics, we will also work on developing more general aspects of a mathematical practice including:
 
--   Coming to class on time, working problems, and sharing ideas in class. Participating in out of class enrichment. Above 90% is highly proficient, above 75% is proficient.
-
--   Completing WebWork assignments on time. Above 90% is highly proficient, above 75% is proficient.
-
--   Exceptional persistence in the face of challenges.
+-   Ability to communicate mathematical thinking effectively, including correct use of vocabulary, notation, and mathematical representations.
+-   Ability to develop strategies for solving complex or unfamilar problems.
+-   Ability to use technology effectively.

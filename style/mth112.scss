@@ -65,6 +65,16 @@ ol {
  border-radius: 10pt;
 }
 
+
+.bluebox {
+ background-color: #00B7CD;
+ padding-left: 30pt;
+ padding-right: 30pt;
+ padding-bottom: 5pt;
+ padding-top: 5pt;
+ border-radius: 10pt;
+}
+
 .center {
   text-align: center;
 }
@@ -84,4 +94,9 @@ ol {
 
 .blue {
   color: #007DCC;
+}
+
+.btn {
+  border-radius: 10px;
+}
 }

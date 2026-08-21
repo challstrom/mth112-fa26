@@ -1,10 +1,9 @@
 
-# Class Policies
 
-## "AI" Policy
+## "AI"
 
 ::: {.callout-note appearance="simple" icon="false"}
-Using AI tools such as ChatGPT on **homework** or other **submitted work** fundamentally undermines our learning goals and will be considered a violation of UP's academic integrity policy. If I see work that I suspect may have been produced by or with the help of AI tools we will have a conversation about it. Note that I am obligated to share any concerns around academic integrity with the Dean of Students.
+Using LLM tools such as ChatGPT on **homework** or other **submitted work** fundamentally undermines our learning goals and will be considered a violation of UP's academic integrity policy. If I see work that I suspect may have been produced by or with the help of AI tools we will have a conversation about it. Note that I am obligated to share any concerns around academic integrity with the Dean of Students.
 
 In addition to work you turn in I strongly suggest, for the reasons articulated below, that you **don't use** AI tools **in any other capacity** for this class.
 
@@ -16,7 +15,7 @@ These AI policies apply only to this course. For your other courses, please foll
 ::: {.column width="45%"}
 Generative AI tools such as ChatGPT work by predicting what words will form coherent sentences in the context of the prompt you've given it, essentially ["autocomplete in overdrive"](https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html). This means that Gen AI tools are **designed** to produce output that **sounds convincing** without any regard to whether its output is **actually correct**.  The technical term for this is [bullshit](https://thebullshitmachines.com/lesson-2-the-nature-of-bullshit/index.html) 
 
-This also means that they **are not actually doing any mathematics.** If ChatGPT can do a calculus problem its because it was trained on thousands of calculus textbooks (without the author's permission). It also means that there's absolutely no promise that any answers you get from generative AI are correct.
+This also means that they **are not actually doing any mathematics.** If ChatGPT can do a calculus problem its because it was trained on an immense catalogue of calculus materials (without the author's permission). It also means that there's absolutely no promise that any answers you get from generative AI are correct.
 
 I sometimes hear students say that they use AI as a "study aid" to do things like help explain concepts, to summarize content, or to check their work.
 
@@ -42,12 +41,3 @@ Beyond their use in this class, there are many other reasons why you might be cr
 
 Unless otherwise instructed, I encourage you to work together with classmates on homework or other assignments although any work that you hand in should be your own.  You should also acknowledge your collaborators. Unless otherwise instructed, all check-ins should be done individually.
 
-## Late work & extensions {#sec-late-work-extensions}
-
-Due dates for assignments are there to give you structure and to help you keep up with the course material (think of them as "best by" dates). They also help me stay organized and caught up with student work.  That said, I understand that things come up periodically that can make it difficult to complete an assignment by the deadline. Life happens!
-
-If something comes up that prevents you from completing an assignment by the posted due date, just let me know, preferably via email. You do not need to provide an explanation. In general, I will expect to receive your work within **one week**.  There is no penalty to late work other than a missed opportunity to get timely feedback.
-
-There are, however, two **hard deadlines** to be aware of: Oct. 9th (Friday before Fall break) and Dec. 4th (last day of classes). Except in unusual circumstances or by prior arrangement, I will not accept work after those dates.
-
-Finally, note that since the purpose of the Preview Activities is to prepare you for that day's class, these may not be handed in late.

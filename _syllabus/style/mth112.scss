@@ -1,0 +1,87 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
+
+$font-family: "Atkinson Hyperlegible", sans-serif;
+$link-color: #5d6d74;
+$hover-color: lighten($link-color, 40%);
+
+/*-- scss:defaults --*/
+
+$font-size-base:              1.0rem !default;
+$headings-font-weight:        700 !default;
+$h3-font-size: 1.2rem !default;
+
+$toc-font-size: 0.95rem;
+$sidebar-font-size: 1.1rem;
+$sidebar-font-size-section: 0.95rem;
+$footer-font-size: 0.95rem;
+
+$link-color: $red;
+$link-hover-color: $yellow;
+
+
+
+
+
+
+
+/*-- scss:rules --*/
+
+
+
+h2 {
+  color: #2e3440;
+}
+
+h3 {
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, .3);
+}
+
+ul,
+ol {
+  font-family: $font-family-serif;
+}
+
+
+// Slightly bigger callouts
+.callout.callout-style-default .callout-body,
+.callout.callout-style-default > div.callout-header {
+  font-size: 1.1rem;
+}
+
+.callout-icon-container {
+  padding-top: 0 !important;
+}
+
+
+
+.pinkbox {
+ background-color: #FFBEFB;
+ padding-left: 30pt;
+ padding-right: 30pt;
+ padding-bottom: 5pt;
+ padding-top: 5pt;
+ border-radius: 10pt;
+}
+
+.center {
+  text-align: center;
+}
+
+.large {
+  Font-size: 2em;
+}
+
+
+.infobox {
+  padding: 1em 1em 1em 1em;
+  margin-bottom: 10px;
+  border: 5px solid #1E1656;
+  border-radius: 10px;
+  background: #f0effb 5px center/3em no-repeat;
+}
+
+.blue {
+  color: #007DCC;
+}

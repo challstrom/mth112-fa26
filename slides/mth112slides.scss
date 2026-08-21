@@ -1,7 +1,6 @@
 /*-- scss:defaults --*/
 
 // fonts
-$font-family-sas-serif: "Omnes";
 $body-color: #102c57;
 $body-bg: #FEFAf6;
 
@@ -12,6 +11,15 @@ $body-bg: #FEFAf6;
   font-family: Space Mono;
   text-align: left;
   font-size: 70pt;
+}
+
+.reveal .subtitle {
+  font-family: Space Mono;
+  text-align: left;
+}
+
+.reveal h1 {
+  font-family: Space Mono;
 }
 
 .reveal h2 {
