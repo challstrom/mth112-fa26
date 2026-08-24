@@ -132,26 +132,3 @@ Instead of a traditional midterm or final exam, we will instead have a longer ch
 
 -   Monday, Dec. 7th, 1:30-3:30
 
-## Grades
-
-## Course Level Learning Objectives
-
-By the end of the semester you will be able to...
-
--   Analyze functions defined graphically, numerically, or by formula, including exponential, logarithmic, trigonometric, polynomial, and rational families of functions.
-
--   Perform algebraic computations efficiently and correctly; particularly on exponential, logarithmic, and fractional expressions.
-
--   Construct graphs of trigonometric functions using the properties of the unit circle.
-
--   Use trigonometric, rational, exponential, and logarithmic equations to model situations and solve problems.
-
--   Develop persistence in the face of challenging problems and reflective practices to improve your learning.
-
--   Communication mathematics effectively using appropriate justifications and representations.
-
-# Reminders and Expectations
-
--   Canvas Consider Canvas your “base camp” for this course. All information, assignments, updates, Zoom links, etc. will be posted there. If you have a question, it's probably answered on Canvas (perhaps in this very syllabus...). I expect you to check the site frequently to stay on top of deadlines and course communications.
-
--   I believe in you. Doubting yourself? It's human. Need an affirmation? Let me know... I've got your back!

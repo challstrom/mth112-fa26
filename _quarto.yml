@@ -18,7 +18,7 @@ website:
     align: center
 
     style: docked
-    collapse-level: 2
+    collapse-level: 1
 
     contents:
       - href: index.qmd
@@ -33,17 +33,20 @@ website:
         text: Class Structure
       - href: grades.qmd
         text: Grades
+      - text: "------"
       - section: "Slides"
         contents:
-          - href: slides/01/01-introductions.qmd
-            text: "Introductions"
-            target: _blank
-          - href: slides/01/01-schedule.qmd
-            text: "Schedule"
-            target: _blank
-          - href: slides/rights.qmd
-            text: "Rights of Learners"
-            target: _blank  
+          - section: "Week 01"
+            contents:
+              - href: slides/01/01-introductions.html
+                text: "Introductions"
+                target: _blank
+              - href: slides/01/01-schedule.html
+                text: "Schedule"
+                target: _blank
+              - href: slides/rights.html
+                text: "Rights of Learners"
+                target: _blank  
 
 
 format:
