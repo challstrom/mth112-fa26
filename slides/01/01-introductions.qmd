@@ -22,16 +22,17 @@ MTH 112, Section C
 
 - designed to prepare students for Calc I (MTH 201)
 - does not satisfy core requirement
-- If you believe you should take 201, talk to me after class!
-:::
-
-::: {.column width = "50%"}
-![](../../images/dancing_penguins.png){width=75% fig-align="center"}
-:::
 
 :::
 
+::: {.column width="50%"}
 
+![](../images/dancing_penguins.png){width=75% fig-align="right"}
+:::
+
+:::
+
+If you believe you should be in mth 201, talk to me after class!
 
 
 ## Your professor
@@ -81,7 +82,7 @@ Something I liked about math classes...
 
 Something I didn't like...
 
-> Feeling like I have to memorize anything
+> Feeling like I am expected to know something (when I don't)
 
 
 ## In groups of 3-4...
