@@ -1,0 +1,30 @@
+---
+title: "Precalculus"
+subtitle: MTH112, Section C <br>Fall 2026<br>Tuesday, Aug. 25
+
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+
+format: revealjs
+
+---
+
+## In groups...
+
+::: {.incremental}
+- Share thoughts about why we did the sandwich activity.
+- What expectations do we want to set for our class around doing group work?
+
+:::
+
+
+
+
+
+
+## Section 1.1.2
+
+
+

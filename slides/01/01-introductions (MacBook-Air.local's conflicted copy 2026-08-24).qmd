@@ -22,17 +22,16 @@ MTH 112, Section C
 
 - designed to prepare students for Calc I (MTH 201)
 - does not satisfy core requirement
+- If you believe you should take 201, talk to me after class!
+:::
+
+::: {.column width = "50%"}
+![](../../images/dancing_penguins.png){width=75% fig-align="center"}
+:::
 
 :::
 
-::: {.column width="50%"}
 
-![](../images/dancing_penguins.png){width=75% fig-align="right"}
-:::
-
-:::
-
-If you believe you should be in mth 201, talk to me after class!
 
 
 ## Your professor
@@ -82,7 +81,7 @@ Something I liked about math classes...
 
 Something I didn't like...
 
-> Feeling like I am expected to know something (when I don't)
+> Feeling like I have to memorize anything
 
 
 ## In groups of 3-4...
@@ -103,15 +102,12 @@ Choose a **Representative** who will share your group's uncommon commonality wit
 
 Which of these are sandwiches?  Why or why not? (5 min)
 
-![](../images/sandwiches.png){width=85%" fig-align="center"}
+![](images/sandwiches.png){width=85%" fig-align="center"}
 
 
 ##
 
 In your groups, compare definitions.  Why were some items and not others circled?  See if you can come up with a definition that everyone in the group can agree with.
 
-## For Wednesday
 
-- Take a look at Canvas/syllabus & bring your questions to class
-- Find the link to the textbook on the Class Information page
 
