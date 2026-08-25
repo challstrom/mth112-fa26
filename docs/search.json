@@ -550,7 +550,7 @@
     "href": "slides/01/01-Tuesday.html#section",
     "title": "Precalculus",
     "section": "",
-    "text": "Something about the class I’m nervous about…\n\nCanvas – it’s new to me!\n\nSomething I’m looking forward to…\n\nGetting to know all of you!\n\nSomething I liked about math classes…\n\nFinding different ways to approach a problem\n\nSomething I didn’t like…\n\nFeeling like I am expected to know something (when I don’t)"
+    "text": "Can also (sometimes) use variables\nVolume of box with length \\(l\\), width \\(w\\), height \\(h\\) \\[ V = l\\cdot w \\cdot h\\]\nIn our example, we’re actually interested in the box of water (not the entire aquarium). Since \\(h\\) is changing, we leave that as a variable: \\[ V = 4 \\cdot 2 \\cdot h = 8h\\]"
   },
   {
     "objectID": "slides/01/01-Tuesday.html#in-groups-of-3-4",
@@ -564,7 +564,7 @@
     "href": "slides/01/01-Tuesday.html#section-1",
     "title": "Precalculus",
     "section": "",
-    "text": "Which of these are sandwiches? Why or why not? (5 min)"
+    "text": "Changing perspective\nWhat if we were interested in how how the water depth is changing as we fill the tank? Start with previous relationship \\[ V = 8h \\] and rewrite to express \\(h\\) in terms of \\(V\\):\n\\[ \\frac{1}{8} V = \\frac{1}{8} 8h = \\left ( \\frac{8}{8} \\right ) h = h\\] \\[ h = \\frac{1}{8} V\\]"
   },
   {
     "objectID": "slides/01/01-Tuesday.html#section-2",
@@ -592,6 +592,20 @@
     "href": "slides/01/01-Tuesday.html#section-1.1.2",
     "title": "Precalculus",
     "section": "Section 1.1.2",
-    "text": "Section 1.1.2"
+    "text": "Section 1.1.2\nUsing Graphs to Represent Relationships\na graph is plot of ordered pairs \\((t, V)\\) on coordinate axes"
+  },
+  {
+    "objectID": "slides/01/01-Tuesday.html#section-1.1.2-using-graphs-to-represent-relationship",
+    "href": "slides/01/01-Tuesday.html#section-1.1.2-using-graphs-to-represent-relationship",
+    "title": "Precalculus",
+    "section": "Section 1.1.2 – Using Graphs to Represent Relationship",
+    "text": "Section 1.1.2 – Using Graphs to Represent Relationship"
+  },
+  {
+    "objectID": "slides/01/01-Tuesday.html#changing-perspective",
+    "href": "slides/01/01-Tuesday.html#changing-perspective",
+    "title": "Precalculus",
+    "section": "Changing perspective",
+    "text": "Changing perspective\nWhat if we were interested in how how the water depth is changing as we fill the tank?\nStart with previous relationship \\[ V = 8h \\] and rewrite to express \\(h\\) in terms of \\(V\\):\n\\[ \\frac{1}{8} V = h\\]\nor more to the point, \\[ h = \\frac{1}{8} V\\]"
   }
 ]
