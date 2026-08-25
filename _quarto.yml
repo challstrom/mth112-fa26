@@ -40,6 +40,8 @@ website:
             contents:
               - href: slides/01/01-introductions.html
                 text: "Introductions"
+              - href: slides/01/01-Wednesday.html
+                text: "Wednesday, Week 1"
                 target: _blank
               - href: slides/01/01-schedule.html
                 text: "Schedule"
