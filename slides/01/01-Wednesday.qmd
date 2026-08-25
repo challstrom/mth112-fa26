@@ -48,9 +48,9 @@ Located in the Learning Commons (BC 163)
 
 - [Course Policy](https://portland.instructure.com/courses/2680/pages/course-information){target="_blank"}
 
-## Section 1.1.2
+## 
 
-### Using Graphs to Represent Relationships
+### 1.1.2 Using Graphs to Represent Relationships
 
 a graph is plot of *ordered pairs* $(t, V)$ on *coordinate axes*
 

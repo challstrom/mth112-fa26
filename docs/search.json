@@ -634,14 +634,14 @@
     "href": "slides/01/01-Wednesday.html#section",
     "title": "Precalculus",
     "section": "",
-    "text": "Can also (sometimes) use variables\nVolume of box with length \\(l\\), width \\(w\\), height \\(h\\) \\[ V = l\\cdot w \\cdot h\\]\nIn our example, we’re actually interested in the box of water (not the entire aquarium). Since \\(h\\) is changing, we leave that as a variable: \\[ V = 4 \\cdot 2 \\cdot h = 8h\\]"
+    "text": "1.1.2 Using Graphs to Represent Relationships\na graph is plot of ordered pairs \\((t, V)\\) on coordinate axes"
   },
   {
     "objectID": "slides/01/01-Wednesday.html#section-1",
     "href": "slides/01/01-Wednesday.html#section-1",
     "title": "Precalculus",
     "section": "",
-    "text": "Changing perspective\nWhat if we were interested in how how the water depth is changing as we fill the tank? Start with previous relationship \\[ V = 8h \\] and rewrite to express \\(h\\) in terms of \\(V\\):\n\\[ \\frac{1}{8} V = \\frac{1}{8} 8h = \\left ( \\frac{8}{8} \\right ) h = h\\] \\[ h = \\frac{1}{8} V\\]"
+    "text": "Can also (sometimes) use variables\nVolume of box with length \\(l\\), width \\(w\\), height \\(h\\) \\[ V = l\\cdot w \\cdot h\\]\nIn our example, we’re actually interested in the box of water (not the entire aquarium). Since \\(h\\) is changing, we leave that as a variable: \\[ V = 4 \\cdot 2 \\cdot h = 8h\\]"
   },
   {
     "objectID": "slides/01/01-Wednesday.html#math-resource-center-mrc",
@@ -663,5 +663,12 @@
     "title": "Precalculus",
     "section": "What about using “AI”?",
     "text": "What about using “AI”?\n\nWhy did I put “AI” in quotes?\nWhat do y’all think about appropriate use of AI in this class?\nCourse Policy"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#section-2",
+    "href": "slides/01/01-Wednesday.html#section-2",
+    "title": "Precalculus",
+    "section": "",
+    "text": "Changing perspective\nWhat if we were interested in how how the water depth is changing as we fill the tank? Start with previous relationship \\[ V = 8h \\] and rewrite to express \\(h\\) in terms of \\(V\\):\n\\[ \\frac{1}{8} V = \\frac{1}{8} 8h = \\left ( \\frac{8}{8} \\right ) h = h\\] \\[ h = \\frac{1}{8} V\\]"
   }
 ]
