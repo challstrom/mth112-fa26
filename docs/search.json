@@ -613,7 +613,7 @@
     "href": "slides/01/01-Wednesday.html#webwork",
     "title": "Precalculus",
     "section": "WeBWorK",
-    "text": "WeBWorK\n\nwebwork.up.edu/webwork2/MTH112C-F26/\nLogin with you UP username as both login and password (then reset your password)\nFocus on hard problems\nAlthough WeBWorK keeps track of points, I do not. I’m only tracking if you do it or not"
+    "text": "WeBWorK\n\nwebwork.up.edu/webwork2/MTH112C-F26/\nlogin with your UP credentials. If that doesn’t work, use your UP username as both login and password (then reset your password)\nFocus on problems that feel productive\nAlthough WeBWorK keeps track of points, I do not. I’m only tracking if you do it or not"
   },
   {
     "objectID": "slides/01/01-Wednesday.html#getting-help",
@@ -670,5 +670,26 @@
     "title": "Precalculus",
     "section": "",
     "text": "Changing perspective\nWhat if we were interested in how how the water depth is changing as we fill the tank? Start with previous relationship \\[ V = 8h \\] and rewrite to express \\(h\\) in terms of \\(V\\):\n\\[ \\frac{1}{8} V = \\frac{1}{8} 8h = \\left ( \\frac{8}{8} \\right ) h = h\\] \\[ h = \\frac{1}{8} V\\]"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#this-week",
+    "href": "slides/01/01-Wednesday.html#this-week",
+    "title": "Precalculus",
+    "section": "This week",
+    "text": "This week\n\nWeBWorK A1 due Friday 7pm\nWeekly Engagement Report due 5pm (on Canvas)\nPreview Activity 1.2.1 complete on paper and bring to class"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#section-3",
+    "href": "slides/01/01-Wednesday.html#section-3",
+    "title": "Precalculus",
+    "section": "",
+    "text": "Conical Tank (point down)\n\n\n\n\n\n\\[ V = \\frac{1}{3} \\pi h r^2 \\]\nAs water is added, volume is increasing – both \\(r\\) and \\(h\\) are changing"
+  },
+  {
+    "objectID": "slides/01/01-Wednesday.html#section-4",
+    "href": "slides/01/01-Wednesday.html#section-4",
+    "title": "Precalculus",
+    "section": "",
+    "text": "But \\(r\\) and \\(h\\) are related!\n\n\n\n\n\nSimilar triangles (side view) means ratios are the same: \\[\n\\frac{2}{4} = \\frac{r}{h}\n\\]"
   }
 ]
