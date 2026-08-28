@@ -1,0 +1,43 @@
+---
+title: "Precalculus"
+subtitle: MTH112C, Fall 2026<br>Friday, Aug. 28
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Reminders
+
+-   WeBWorK A1 due today 7pm
+-   Weekly Engagement Report due 5pm (on Canvas)
+
+## Next Week
+-   WeBWork F1 due Monday
+-   Check-in on Tuesday
+-   Preview Activity 1.3.1 Due Wednesday
+
+## Check-In
+
+-   20-30 minutes
+-   A few problems on Learning Targets:
+    - **F1:**  I can use function notation, find and simplify the output
+    output of a function given an input, and find an input that produces a given output; I can do this for functions given by a formula, a table, and a graph. (sections 1.1-1.2)
+    
+    - **A1:** I can use algebraic operations to solve equations and evaluate inequalities.
+    
+## 
+
+### How should you prepare?  
+
+- Ask questions in class 
+- complete the activities.  
+- Do the WeBWork.  
+- Stop by drop-in hours (or other times)
+- Do extra problems from the book if you want more practice.
+
+

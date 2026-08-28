@@ -43,6 +43,9 @@ website:
               - href: slides/01/01-Wednesday.html
                 text: "Wednesday, Week 1"
                 target: _blank
+              - href: slides/01/01-Friday.html
+                text: "Friday, Week 1"
+                target: _blank
               - href: slides/rights.html
                 text: "Rights of Learners"
                 target: _blank  
