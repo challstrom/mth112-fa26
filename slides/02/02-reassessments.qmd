@@ -1,0 +1,28 @@
+---
+title: "Precalculus"
+subtitle: MTH112C, Fall 2026<br>Reassessments
+auto-stretch: false
+title-slide-attributes:
+  data-background-size: contain
+  data-background-opacity: "0.3"
+format: revealjs
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Check-in \#1
+
+-   review your solutions
+-   ask for help!  Drop-in hours or MRC
+-   continue to use WebWork and/or textbook for practice problems
+
+
+## Re-assess (try again)
+
+-  Next week's check-in:  I'll bring new problems for F1
+-  Come to drop-in hours or schedule another time
+    - [calendly.com/hallstro](https://calendly.com/hallstro)
+    - Need a ticket:  bring corrections on a separate piece of paper
+-  Midsemester check-in will include all prior Learning Targets    
+
